@@ -1,0 +1,13 @@
+{
+  "name": "word-query",
+  "title": "Word Query",
+  "id": "jid1-ljNgpUIZ4uFbJg",
+  "description": "Highlight a word and perform a query on it.\nCurrent queries are:\nDictionary search\nThesaurus search\nTranslation of the word ",
+  "icon": "data/images/icon48.png",
+  "icon64": "data/images/icon64.png",
+  "homepage": "https://github.com/dillbyrne/word-query",
+  "author": "dbyrne",
+  "license": "GNU GPL v3+",
+  "permissions": {"private-browsing": true},
+  "version": "1.0"
+}

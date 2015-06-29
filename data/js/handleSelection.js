@@ -10,6 +10,9 @@ self.on("click", function (node, data) {
 	else if (data == "tran")
 		message = "http://translate.reference.com/?query="+text;
 
+//"https://translate.google.com/?#auto/en/query goes here"
+//"translate.reference.com/english/dutch/query goes here/"
+	
 	self.postMessage(message);
 	
 });

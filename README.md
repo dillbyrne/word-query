@@ -9,6 +9,10 @@ It supports dictionary,thesaurus and translation queries. If more than one word
 is selected then only the translation option is available. 
 
 
+## Screenshot
+
+![Word Query](https://addons.cdn.mozilla.net/user-media/previews/full/146/146566.png?modified=1416061172)
+
 ## Donations
 
 If you would like to donate you can do so with paypal on the firefox addons website or with bitcoin at 
